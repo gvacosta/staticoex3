@@ -2,7 +2,6 @@
 
 export(HJSTATICO)
 export(Prep.Tables)
-export(sumaguayaca)
 import(ade4)
 import(graphics)
 import(pracma)
