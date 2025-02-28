@@ -10,7 +10,7 @@
 
 
 
-## Installation
+## Installation prueba
 
 You can install the development version of staticoex3 like so:
 
